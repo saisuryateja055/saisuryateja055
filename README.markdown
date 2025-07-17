@@ -1,8 +1,8 @@
-# Sai Surya Teja Jakkula 
+# Sai Surya Teja Jakkula 😜 
 
 **AI & Data Science Enthusiast | Ex-Gen AI Specialist Intern @ Intel  | B.Tech @ KL University**
 
-AI & Data Science professional skilled in Python, Finne-tuning LLMs, and building Agentic AI applications. Expertise in RAG (Retriever-Augmented Generation), including GraphRAG, Agentic RAG, CRAG, Self-CRAG and Adaptive RAG, MCP along with optimizing NLP pipelines. Experienced with LangChain, LangGraph, and Autogen, delivering accurate, self-improving AI solutions. Currently learning LLMOps and passionate about advancing real-world AI innovation.
+Hi! I'm Teja, a passionate AI and Data Science professional dedicated to building innovative AI applications with Python, LangChain, and AutoGen. I specialize in creating intelligent, adaptable AI solutions and am currently exploring LLMOps to drive impactful advancements. My experience at Intel honed my skills in AI development, and I’m excited to contribute to cutting-edge technology! 
 
 ---
 
@@ -32,5 +32,5 @@ AI & Data Science professional skilled in Python, Finne-tuning LLMs, and buildin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryateja055&layout=compact&theme=light)
 
 
-## 📫 Connect
+## 📫 Want to Connect ?
 - [LinkedIn](https://linkedin.com/in/saisuryateja055)   [Medium](https://medium.com/@saisuryateja055)  [Email](mailto:your.email@saisuryateja055.com)
