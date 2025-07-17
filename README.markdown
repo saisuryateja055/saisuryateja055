@@ -33,6 +33,4 @@ AI & Data Science professional skilled in Python, Finne-tuning LLMs, and buildin
 
 
 ## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/saisuryateja055)
-- [Medium](https://medium.com/@saisuryateja055)
-- [Email](mailto:your.email@saisuryateja055.com)
+- [LinkedIn](https://linkedin.com/in/saisuryateja055)   [Medium](https://medium.com/@saisuryateja055)  [Email](mailto:your.email@saisuryateja055.com)
