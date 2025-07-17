@@ -27,7 +27,17 @@ AI & Data Science professional skilled in Python, Finne-tuning LLMs, and buildin
 
 ---
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/python.svg" alt="Python" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/c.svg" alt="C" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" alt="LangChain" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen_logo.png" alt="AutoGen" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tensorflow.svg" alt="TensorFlow" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pytorch.svg" alt="PyTorch" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/streamlit.svg" alt="Streamlit" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/huggingface.svg" alt="Hugging Face" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="FastAPI" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/apacheairflow.svg" alt="Apache Airflow" height="24" style="vertical-align:middle; margin: 0 5px;">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/python.svg" alt="Python" height="24" style="vertical-align:middle; margin: 0 5px; fill: #3776AB;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/c.svg" alt="C" height="24" style="vertical-align:middle; margin: 0 5px; fill: #A8B9CC;"> 
+<img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="LangChain" height="24" style="vertical-align:middle; margin: 0 5px;"> 
+<img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen_logo.png" alt="AutoGen" height="24" style="vertical-align:middle; margin: 0 5px;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tensorflow.svg" alt="TensorFlow" height="24" style="vertical-align:middle; margin: 0 5px; fill: #FF6F00;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pytorch.svg" alt="PyTorch" height="24" style="vertical-align:middle; margin: 0 5px; fill: #EE4C2C;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/streamlit.svg" alt="Streamlit" height="24" style="vertical-align:middle; margin: 0 5px; fill: #FF4B4B;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/huggingface.svg" alt="Hugging Face" height="24" style="vertical-align:middle; margin: 0 5px; fill: #FFD21E;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="FastAPI" height="24" style="vertical-align:middle; margin: 0 5px; fill: #009688;"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/apacheairflow.svg" alt="Apache Airflow" height="24" style="vertical-align:middle; margin: 0 5px; fill: #007A88;">
+
 ---
 
 ## 📊 GitHub Stats
