@@ -23,7 +23,7 @@ AI & Data Science professional skilled in Python, Finne-tuning LLMs, and buildin
 - Built a VS Code extension for vulnerability detection, reducing review effort by 70%.
 - Developed a GitHub Pull Request Agent, cutting review time by 90%.
 - Created RAG agents for Salesforce with 95% accuracy, earning an internal award.
-- Worked on MCP and function calling 
+- Worked on MCP and Function Calling 
 
 ---
 
@@ -31,10 +31,9 @@ AI & Data Science professional skilled in Python, Finne-tuning LLMs, and buildin
 
 ## 📊 GitHub Stats
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)---
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisuryateja055&show_icons=true&theme=light)---
 
 ## 📫 Connect
-
-- LinkedIn
-- Medium
-- Email
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Medium](https://medium.com/@yourprofile)
+- [Email](mailto:your.email@example.com)
