@@ -40,7 +40,7 @@ I'm a B.Tech student in Artificial Intelligence and Data Science at KL Universit
 ---
 
 ## 📊 GitHub Stats
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisuryateja055&show_icons=true&theme=light)
 
 ---
 
