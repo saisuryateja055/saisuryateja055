@@ -1,4 +1,4 @@
-# Sai Surya Teja Jakkula 😜 
+# Sai Surya Teja Jakkula 🙂🙃
 
 **AI & Data Science Enthusiast | Ex-Gen AI Specialist Intern @ Intel  | B.Tech @ KL University**
 
