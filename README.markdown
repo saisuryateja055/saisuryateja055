@@ -2,7 +2,7 @@
 
 **AI & Data Science Enthusiast | Ex-Gen AI Specialist Intern @ Intel  | B.Tech @ KL University**
 
-Hi! I'm Teja, a passionate AI and Data Science professional dedicated to building innovative AI applications with Python, LangChain, and AutoGen. I specialize in creating intelligent, adaptable AI solutions and am currently exploring LLMOps to drive impactful advancements. My experience at Intel honed my skills in AI development, and I’m excited to contribute to cutting-edge technology! 
+Hi! I'm Teja, a passionate AI and Data Science professional dedicated to building innovative AI applications with Python, LangChain, and AutoGen. I specialize in creating intelligent, adaptable AI solutions and am currently exploring LLMOps to drive impactful advancements. My experience at Intel honed my skills in AI development, and I’m excited to contribute to cutting-edge technology! 🙌🙌🙌 
 
 ---
 
@@ -16,7 +16,7 @@ Hi! I'm Teja, a passionate AI and Data Science professional dedicated to buildin
 
 ## 💼 Experience
 
-### Gen AI Specialist Intern @ Intel, Bangalore (Jul 2024 – May 2025)
+### Gen AI Specialist Intern @ Intel, Bangalore (Jul 2024 – May 2025) 🤖⚔️
 
 - Fine-tuned LLMs (LLaMA, GPT-2, Mistral) on Intel Gaudi, achieving 92% accuracy.
 - Built a VS Code extension for vulnerability detection, reducing review effort by 70%.
@@ -32,5 +32,5 @@ Hi! I'm Teja, a passionate AI and Data Science professional dedicated to buildin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryateja055&layout=compact&theme=light)
 
 
-## 📫 Want to Connect ?
+## 📫 Want to Connect ? 🤝
 - [LinkedIn](https://linkedin.com/in/saisuryateja055)   [Medium](https://medium.com/@saisuryateja055)  [Email](mailto:your.email@saisuryateja055.com)
