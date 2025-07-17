@@ -1,4 +1,4 @@
-# Sai Surya Teja Jakkula 👋
+# Sai Surya Teja Jakkula 
 
 **AI & Data Science Enthusiast | Ex-Gen AI Specialist Intern @ Intel  | B.Tech @ KL University**
 
@@ -27,6 +27,7 @@ AI & Data Science professional skilled in Python, Finne-tuning LLMs, and buildin
 
 ---
 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/python.svg" alt="Python" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/c.svg" alt="C" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.svg" alt="LangChain" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen_logo.png" alt="AutoGen" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tensorflow.svg" alt="TensorFlow" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pytorch.svg" alt="PyTorch" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/streamlit.svg" alt="Streamlit" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/huggingface.svg" alt="Hugging Face" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="FastAPI" height="24" style="vertical-align:middle; margin: 0 5px;"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/apacheairflow.svg" alt="Apache Airflow" height="24" style="vertical-align:middle; margin: 0 5px;">
 ---
 
 ## 📊 GitHub Stats
