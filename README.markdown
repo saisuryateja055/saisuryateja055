@@ -45,6 +45,6 @@ I'm a B.Tech student in Artificial Intelligence and Data Science at KL Universit
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Medium](https://medium.com/@yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://linkedin.com/in/saisuryateja055)
+- [Medium](https://medium.com/@saisuryateja055)
+- [Email](mailto:your.email@saisuryateja055.com)
